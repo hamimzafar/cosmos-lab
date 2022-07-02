@@ -5,6 +5,13 @@ title: Home
 # Cosmos-Lab
 
 Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioral, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, ecology, and evolution, but is most commonly thought of as the intersection of computer science, biology, and big data.
+We are interested in developing probabilistic frameworks that can integrate mutation allele frequency from bulk sequencing and mutation profile from single-cell sequencing for better understanding the heterogeneous subpopulations in cancer tissue and inferring the temporal order in which the somatic mutations were acquired. See here for details. 
+
+Cell Lineage Inference
+
+
+We develop novel probabilistic tree inference algorithms that integrate different data modalities (e.g., mutation and gene-expression data) for elucidating the cell lineage of whole organism. See here for details.
+
 <!-- {%
   include link.html
   type="github"
